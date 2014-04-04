@@ -171,7 +171,7 @@ p {
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {
 		.content, .center, aside {float:none; width: 100%; }
-		.robin, .batgirl, .jl, .nightwing, .gcpd, .we { width: 50%;}
+		.robin, .batgirl, .jl, .nightwing, .gcpd, .we { width: 40%;}
 		.center {background-color: #FFFFFF}
 		li {margin: 3%;}
 	}
