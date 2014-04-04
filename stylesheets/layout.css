@@ -42,6 +42,9 @@ header {
 	text-align: center;
 
 }
+h1, h2, h3 {
+	font-family: Helvetica;
+}
 
 h1 {
 	font-size: 3.125em;
