@@ -68,25 +68,32 @@ ul {
 }
 
 .content {
-	width: 41.66666666666667%;
-	padding: 1.25%;
+	width: 31.25%;
+	padding: .75%;
 	float: left;
 }
 
+.center {
+	width: 31.25%;
+	float: right;
+	border: 2px solid #000000;
+	padding: .75%;
+}
+
 aside {
-	width: 29.16666666666667%;
-	padding: 1.78571428571429%;
+	width: 31.25%;
+	padding: .75%;
 	float: right; 
-	border: 3px solid #000000;
 
 }
+
 
 h2, h3 {
 	text-align:  center;
 
 }
 
-aside h2 {
+aside h2, .center h2 {
 	padding-bottom: 1.78571428571429%;
 }
 
@@ -96,7 +103,7 @@ aside h2 {
 
 }
 
-.nightwing {
+.we {
 	width: 92.85714285714286%;
 	margin: 0 auto;
 }
@@ -111,9 +118,27 @@ aside h2 {
 	margin: 0 auto;
 }
 
+.nightwing {
+	width: 87.5%;
+	margin: 0 auto;
+
+}
+
+.batgirl {
+	width: 87.5%;
+	margin: 0 auto;
+
+}
+
+.robin {
+	width: 87.5%;
+	margin: 0 auto;
+
+}
 
 
-.bruce img , .nightwing img, .gcpd img, .jl img{
+
+.bruce img , .we img, .gcpd img, .jl img, .nightwing img, .batgirl img, .robin img{
 	width: 100%;
 }
 
