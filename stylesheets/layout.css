@@ -78,6 +78,7 @@ ul {
 	width: 31.25%;
 	float: right;
 	padding: .75%;
+	background-color: #CCCCCC;
 }
 
 aside {
@@ -93,7 +94,7 @@ h2, h3 {
 
 }
 
-aside h2, .center h2 {
+aside h2 {
 	padding-bottom: 1.78571428571429%;
 }
 
